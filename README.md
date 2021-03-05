@@ -1,10 +1,10 @@
 
-### :wave: WELCOME TO MY SPACE :wave:
+### :wave:  HOLA HELLO TO MY :earth_americas:  :wave:
 
 ![Giphy](images/ALICE.gif)
 
 ```
-A true creative at heart. I am completing a Full Stack Software Engineer at the University of Minnesota.
+A true creative at :heart: . I am completing a Full Stack Software Engineer at the University of Minnesota.
 ```
 <!--
 **adpir/adpir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
