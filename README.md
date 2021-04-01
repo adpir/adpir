@@ -1,13 +1,18 @@
-
-### :wave:  HOLA HELLO TO MY :earth_americas:  :wave:
+<h1 align="center"> :pr: WELCOME TO MY PAGE :pr: </h1>
 
 ![Giphy](images/ALICE.gif)
 
 ```
-A true creative at :heart: . I am completing a Full Stack Software Engineer at the University of Minnesota.
+A true creative at heart . I have always enjoyed making things work
+and look the way that they should. Recently, I become a Full Stack Software Engineer at the University of Minnesota. I enjoy tackling problems, have a strong range of leadership experience in multiple fields of work, and work well with others. I also have a bachelors in Theatre. have always been involved in the arts, and love finding new ways to get creative.
 ```
+
+Reach me at:
+
+:email: www.linkedin.com/in/alicepiar
+
 <!--
-**adpir/adpir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
