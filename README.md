@@ -1,4 +1,4 @@
-<h1 align="center"> :pr: WELCOME TO MY PAGE :pr: </h1>
+<h1 align="center"> 🇵🇷 WELCOME TO MY PAGE 🇵🇷 </h1>
 
 ![Giphy](images/ALICE.gif)
 
