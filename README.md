@@ -3,8 +3,9 @@
 
 ---
 
-<img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/> 
-A little about myself <img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/>
+<div>
+<img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/> <h2> A little about myself </h2> <img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/>
+</div>
 
 `A true creative at heart!` I have always enjoyed making things work
 and look the way that they should. Recently, I became a Full Stack Software Engineer 👩‍💻 🎓 at the `University of Minnesota` 🎉 . I enjoy tackling problems, have a strong range of leadership experience in multiple fields of work including team lead at a software company for 6 years, and work well with others 👨‍👩‍👧‍👦. I am almost obsessed with making the projects I work on function perfectly with a visual flare that leaves people with a serious impression.I also have a bachelors in Theatre 🎭, have always been involved in the arts fully embracing all things creative 🎨.
@@ -60,14 +61,14 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 > “Believe you can and you’re halfway there.” — Theodore Roosevelt <br/>
 > “Nothing is impossible, the word itself says ‘I’m possible’!” — Audrey Hepburn <br/>
 > “It does not matter how slowly you go as long as you do not stop.” — Confucius <br/>
-> “A person who never made a mistake never tried anything new.” — Albert Einstein <br/>
+> “A person who never made a mistake never tried anything new.” — Albert Einstein
 
 ---
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
  You can reach me at:
 
-[![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alicepiar)
+[![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/alicepiar)
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
