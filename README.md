@@ -66,6 +66,6 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 
 ### **_You can reach me at_**<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
-[![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/alicepiar)
+[![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alicepiar)
 
 [![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adpir)
