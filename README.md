@@ -1,5 +1,5 @@
-[![Giphy](images/Logo.gif)](https://adpir.github.io/ReactPortfolio/)
-![Giphy](images/brain.gif)
+[![Header](images/Logo1.gif)](https://adpir.github.io/ReactPortfolio/)
+![Giphy](images/brain2.gif)
 
 ---
 
@@ -55,7 +55,7 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 
 ---
 
-## 💭 Inspirational
+## 💭 **_Inspirational_**
 
 > “Believe you can and you’re halfway there.” — Theodore Roosevelt <br/>
 > “Nothing is impossible, the word itself says ‘I’m possible’!” — Audrey Hepburn <br/>
