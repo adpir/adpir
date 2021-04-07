@@ -1,4 +1,4 @@
-[![Header](images/Logo.gif)](https://adpir.github.io/ReactPortfolio/)
+[![Giphy](images/Logo.gif)](https://adpir.github.io/ReactPortfolio/)
 ![Giphy](images/brain.gif)
 
 ---
