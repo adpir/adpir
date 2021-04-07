@@ -3,9 +3,7 @@
 
 ---
 
-<div>
-<img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/> <h2> A little about myself </h2> <img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/>
-</div>
+### **_A little about myself_** <img src="https://cultofthepartyparrot.com/flags/hd/puertoricoparrot.gif" width="30" height="30"/>
 
 `A true creative at heart!` I have always enjoyed making things work
 and look the way that they should. Recently, I became a Full Stack Software Engineer 👩‍💻 🎓 at the `University of Minnesota` 🎉 . I enjoy tackling problems, have a strong range of leadership experience in multiple fields of work including team lead at a software company for 6 years, and work well with others 👨‍👩‍👧‍👦. I am almost obsessed with making the projects I work on function perfectly with a visual flare that leaves people with a serious impression.I also have a bachelors in Theatre 🎭, have always been involved in the arts fully embracing all things creative 🎨.
@@ -24,14 +22,15 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 
 ---
 
+## 💻 **_Technical Skills_**
+
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Front-End Skills
 
 ![images](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![images](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![images](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/nodeparrot.gif" width="30" height="30"/>
- Back-End Skills
+<img src="https://cultofthepartyparrot.com/parrots/hd/nodeparrot.gif" width="30" height="30"/> Back-End Skills
 
 ![images](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![images](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -56,7 +55,7 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 
 ---
 
-### 💭 Inspirational
+## 💭 Inspirational
 
 > “Believe you can and you’re halfway there.” — Theodore Roosevelt <br/>
 > “Nothing is impossible, the word itself says ‘I’m possible’!” — Audrey Hepburn <br/>
@@ -65,11 +64,8 @@ and look the way that they should. Recently, I became a Full Stack Software Engi
 
 ---
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
- You can reach me at:
+### **_You can reach me at_**<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
 [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/alicepiar)
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
 [![link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adpir)
